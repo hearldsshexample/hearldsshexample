@@ -1,0 +1,2 @@
+# hearldsshexample
+#AndroidDevChallengeBUILD.GRADLE
